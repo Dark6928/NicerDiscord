@@ -1,9 +1,7 @@
-# Dark Matter
-A cold, dark & frosty theme.
-> This is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
+# tokyo_911
+> A cold, dark & frosty theme.
 
-![Preview](https://i.imgur.com/xSG96qa.png)
+![Preview](https://i.imgur.com/WrY8Uv1.jpg)
 
 ## Credits
-* Hammock for making the original theme.
-* Devilbro for giving me permission to use his BlurpleRecolor theme. This saved a lot of time.
+* tokyo_911 for making the theme.
