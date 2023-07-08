@@ -1,0 +1,22 @@
+/**
+ * @discord user : tokyo_911
+ * @author tokyo_911
+ * @version 1.0.0
+ * @description A cold, dark and red  & frosty theme.
+ * @source https://github.com/Dark6928/NicerDiscord/
+
+*/
+
+@import url('https://Dark6928.github.io/NicerDiscord/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://mrkzgulfup.com/do.php?img=2511');
+    --home-image: url('https://mrkzgulfup.com/do.php?img=2510');
+    --background-solid: #1e0b0d;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #240f13;
+    --accent: 233, 38, 38;
+    --accent-alt: 135, 30, 48;
+}
